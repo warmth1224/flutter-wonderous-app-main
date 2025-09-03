@@ -40,7 +40,7 @@ Once Flutter is setup, you can use the latest `stable` channel:
 
 This app uses the new [Impeller Runtime] by default on iOS.
 
-# About gskinner
+# About Us
 We build innovative digital experiences for smart clients, and we love how Flutter unleashes our creativity when building multi-platform apps. Don't hesitate to [stop by our site] to learn more about what we do, or check out other [innovative Flutter projects] we've built. We'd love to hear from you!
 
 # License
